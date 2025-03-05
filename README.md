@@ -1,5 +1,5 @@
 # CUDA-Q Labs
-Lab exercies I've done after my club's webinar with NVIDIA representatives on quantum computing and CUDA-Q (March 4, 2025).
+References to lab exercies I've done after my club's webinar with NVIDIA representatives on quantum computing and CUDA-Q (March 4, 2025).
 
 ## Introduction to CUDA-Q
 CUDA-Q is an open-source quantum development platform orchestrating the hardware and software needed to run useful, large-scale quantum computing applications. The platform’s hybrid programming model allows computation on GPU, CPU, and QPU resources in tandem from within a single quantum program. CUDA-Q is “qubit-agnostic”—seamlessly integrating with all QPUs and qubit modalities and offering GPU-accelerated simulations when adequate quantum hardware is not available.
